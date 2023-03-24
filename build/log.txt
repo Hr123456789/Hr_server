@@ -1,0 +1,3 @@
+2023-03-02 10:04:23	ERROR	hello sylar log
+2023-03-02 10:04:23	ERROR	test error
+2023-03-02 10:04:23	ERROR	test macro fmt error aa

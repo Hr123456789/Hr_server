@@ -1,0 +1,15 @@
+/home/hr/sylar_v3.0/build/CMakeFiles/sylar.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_config.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_thread.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_fiber.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_scheduler.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_iomanager.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_hook.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_tcp_server.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/echo_tcp_server.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_http_parser.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/test_http_server.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/my_http_server.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/edit_cache.dir
+/home/hr/sylar_v3.0/build/CMakeFiles/rebuild_cache.dir
